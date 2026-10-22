@@ -61,7 +61,7 @@ make AI agents production-ready. Happy to collaborate on R&D projects.
 ## 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rizkir42@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-your__username-5865F2?style=flat&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-probs0921-5865F2?style=flat&logo=discord&logoColor=white)
 
 <details>
 <summary>📊 GitHub stats</summary>
